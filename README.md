@@ -1,1 +1,1 @@
-# Manipulation_of_7-segment_Displays_DE1SoC
+# MANIPULACIJA 7-SEGMENTNIM DISPLEJIMA NA DE1-SoC (_Ugrađeni računarski sistemi_)
